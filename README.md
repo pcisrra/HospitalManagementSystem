@@ -7,9 +7,11 @@ This project Online Hospital Management System aims at to develop the software t
 
 Project Category:    RDBMS
 
-Language(s) to be used: FRONT END: PHP 5.6
+Language(s) to be used:
+	BACK END: PHP
+	FRONT END: HTML, CSS, JAVASCRIPT
 
-RDBMS Software used:    BACK END: MySQL server 5.3
+RDBMS Software used:	MySQL server 5.7
 
 Features:
 Patient module
@@ -19,5 +21,3 @@ Prescription module
 Dashboard module
 Billing module
 Order module
-
-For updates and reports visit: https://www.studentprojectguide.com/php/online-hospital-management-system/
